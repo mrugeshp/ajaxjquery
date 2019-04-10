@@ -1,64 +1,36 @@
 {
   "orders": [
     {
-      "name": "Ramesh",
-      "drink": "Tea",
-      "id": 1
-    },
-    {
-      "name": "Mrugesh",
-      "drink": "Sharbat",
-      "id": 2
-    },
-    {
-      "id": 4,
-      "name": "Shardul",
-      "drink": "Tea"
-    },
-    {
-      "name": "Girish",
-      "drink": "Maza",
-      "id": 5
-    },
-    {
-      "name": "Sachin",
-      "drink": "Fanta",
-      "id": 6
-    },
-    {
-      "name": "Sarfaraj",
-      "drink": "Slice",
-      "id": 7
-    },
-    {
-      "name": "User1",
-      "drink": "Drink1",
-      "id": 8
-    },
-    {
-      "name": "Name 2",
-      "drink": "Drink 2",
-      "id": 9
-    },
-    {
-      "name": "Name3",
-      "drink": "Drink3",
-      "id": 10
-    },
-    {
-      "name": "Name4",
-      "drink": "Drink4",
+      "name": "Name4  11 ",
+      "drink": "Drink4111121",
       "id": 11
     },
     {
-      "name": "Name4",
-      "drink": "Drink4",
-      "id": 12
+      "name": "name2 sss11 ",
+      "drink": "   drink2111",
+      "id": 13
     },
     {
-      "name": "Name4",
-      "drink": "Drink4",
+      "name": "cyb.adminuser  ",
+      "drink": "  test111111",
+      "id": 14
+    }
+  ],
+  "drinks": [
+    {
+      "name": "drinkName1",
+      "drink": "drinkvalue",
+      "id": 11
+    },
+    {
+      "name": "name2 sss11 ",
+      "drink": "   drink2111",
       "id": 13
+    },
+    {
+      "name": "cyb.adminuser  ",
+      "drink": "  test111111",
+      "id": 14
     }
   ]
 }
